@@ -1,5 +1,4 @@
-<!-- BLEAK - TUFX Profiles -->
-##BLEAK - TUFX Profiles
+## BLEAK - TUFX Profiles
 
 v1.0 - 6 December 2022
 
