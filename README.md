@@ -1,7 +1,5 @@
 ## BLEAK - TUFX Profiles
 
-v1.0 - 6 December 2022
-
 BLEAK is a mod for Kerbal Space Program that adds TUFX profiles
 
 How to install:
