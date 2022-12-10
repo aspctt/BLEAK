@@ -1,4 +1,4 @@
-## BLEAK - TUFX Profiles
+# BLEAK - TUFX Profiles
 
 BLEAK is a mod for Kerbal Space Program that adds TUFX profiles
 
