@@ -1,12 +1,14 @@
 # BLEAK - TUFX Profiles
 
+v1.2 - 26 October 2023
+
 BLEAK is a mod for Kerbal Space Program that adds TUFX profiles
 
 How to install:
 
 1. Delete any previous versions of BLEAK.
 2. Download and install TUFX and Module Manager from: https://forum.kerbalspaceprogram.com/index.php?/topic/192212-19x-tufx-post-processing/
-3. Take the "Bleak" folder and place it in your KSP's GameData Folder
+3. Take the "BLEAK" folder and place it in your KSP's GameData Folder
 
 
 Instructions:
