@@ -1,2 +1,6 @@
+= v1.2
+- Added a new profile and it's editor counterpart (Borealis)
+= v1.1
+- Added a new profile (Everon)
 = v1.0
-- Initial Release
+- Release
