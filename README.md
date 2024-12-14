@@ -21,7 +21,7 @@ BLEAK is a mod for Kerbal Space Program that adds TUFX profiles
 
 This work is licensed as follows:
 
-* [GPL 3.0](https://www.gnu.org/licenses/gpl-3.0.en.html). See [here](./LICENSE.GPL-3_0)
+* [GPL 3.0](https://www.gnu.org/licenses/gpl-3.0.en.html). See [here](./LICENSE)
 	+ You are free to:
 		- Use : unpack and use the material in any computer or device
 		- Redistribute : redistribute the original package in any medium
