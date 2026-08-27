@@ -1,0 +1,46 @@
+###############################################################################
+# BLEAK - .gitignore for a KSP configuration mod
+###############################################################################
+
+## Release packaging output
+# The distributable is a zip of GameData/. Built on demand, never committed.
+build/
+dist/
+release/
+*.zip
+
+## IDE / editor cruft
+.idea/
+.vscode/
+.vs/
+*.iml
+.settings/
+.metadata/
+.classpath
+.project
+*.bak
+*~
+
+## OS cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+
+## KSP runtime artefacts
+# Written by the game beside an installed copy of the mod. Logs are machine
+# specific, and TUFX writes its own working copies of profiles through the
+# in-game editor. Neither belongs in the repository.
+KSP.log
+*.log
+Logs/
+PluginData/
+
+## Local-only working material. NOT for publication.
+#
+# Scratch notes and reference material kept next to the repo so profiles can be
+# compared against other mods' work. Other people's files under other people's
+# terms; this mod ships none of them.
+#
+# Remove an entry only if you deliberately intend to publish it.
+external-files/
+NOTES.md

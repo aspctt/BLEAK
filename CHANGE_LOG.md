@@ -4,15 +4,15 @@
 * 2024-11-17: 1.2.1.0
 	+ Metadata changes
 
-* 2023-10-26: 1.2
+* 2023-10-26: 1.2.0.0
 	+ Added two new profiles
 		- Borealis
-		- Borealis-Editor
+		- Borealis - Editor
 
-* 2022-12-12: 1.1
+* 2022-12-12: 1.1.0.0
 	+ Fixed naming issues
 	+ Added a new profile:
 		- Everon
 
-* 2022-12-06: 1.0
+* 2022-12-06: 1.0.0.0
 	+ Initial release!

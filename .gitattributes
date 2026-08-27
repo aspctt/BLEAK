@@ -1,0 +1,32 @@
+# Text files: detected automatically, stored and checked out with LF endings.
+# "text=auto" rather than a bare "text" matters. Setting it outright declares
+# every file in the repository to be text, which overrides Git's own detection
+# and strips CR bytes out of binaries as they are committed. Nothing complains:
+# the file is compared after that same normalisation, so it reads as unchanged
+# while what is stored no longer matches what is on disk.
+* text=auto eol=lf
+
+# KSP config and metadata. Named outright so a .cfg edited in the in-game TUFX
+# editor, or saved by a Windows text editor, cannot land in the repository with
+# CRLF and rewrite every line of the diff.
+*.cfg text eol=lf
+*.version text eol=lf
+*.ckan text eol=lf
+*.md text eol=lf
+
+# Binaries, kept byte for byte. Auto-detection already covers these; naming them
+# is the belt to its braces, since the failure is silent and only shows up in a
+# fresh clone.
+*.dll binary
+*.mu binary
+*.mbm binary
+*.dds binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.tga binary
+*.psd binary
+*.ico binary
+*.wav binary
+*.ogg binary
+*.zip binary
