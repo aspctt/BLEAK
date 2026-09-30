@@ -10,10 +10,6 @@
     "resources": {
         "repository": "https://github.com/aspctt/BLEAK"
     },
-    "tags": [
-        "config",
-        "graphics"
-    ],
     "depends": [
         { "name": "TUFX" }
     ],
