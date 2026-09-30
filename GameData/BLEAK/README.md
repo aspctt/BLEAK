@@ -8,6 +8,7 @@
 </p>
 
 <p align=center>
+	<a href="https://spacedock.info/mod/4626/BLEAK"><img src="https://cdn.jsdelivr.net/gh/aspctt/MouseAimFlightRedux@main/docs/badges/spacedock.svg" alt="Available on SpaceDock"></a>
 	<a href="https://github.com/aspctt/BLEAK"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/github_vector.svg" alt="Available on GitHub"></a>
 </p>
 
