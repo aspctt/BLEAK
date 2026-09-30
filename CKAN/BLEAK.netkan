@@ -2,7 +2,7 @@
     "spec_version"   : "v1.4",
     "identifier"     : "BLEAK",
     "$vref"          : "#/ckan/ksp-avc/BLEAK.version",
-    "$kref"          : "#/ckan/github/aspctt/BLEAK",
+    "$kref"          : "#/ckan/spacedock/4626",
     "license"        : "GPL-3.0",
     "name"           : "BLEAK - TUFX Profiles",
     "author"         : "aspctt",
