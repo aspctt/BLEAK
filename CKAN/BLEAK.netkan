@@ -1,0 +1,24 @@
+{
+    "spec_version"   : "v1.4",
+    "identifier"     : "BLEAK",
+    "$vref"          : "#/ckan/ksp-avc/BLEAK.version",
+    "$kref"          : "#/ckan/github/aspctt/BLEAK",
+    "license"        : "GPL-3.0",
+    "name"           : "BLEAK - TUFX Profiles",
+    "author"         : "aspctt",
+    "abstract"       : "Cold, desaturated TUFX post-processing profiles. Four grades covering flight, orbit and the editor.",
+    "resources": {
+        "repository": "https://github.com/aspctt/BLEAK"
+    },
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "depends": [
+        { "name": "TUFX" }
+    ],
+    "install": [ {
+        "find":       "BLEAK",
+        "install_to": "GameData"
+    } ]
+}
