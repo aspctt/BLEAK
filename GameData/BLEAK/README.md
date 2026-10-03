@@ -54,3 +54,7 @@ See [NOTICE](./NOTICE) for copyrights and trademarks.
 * KSPModStewards - maintaining [TUFX](https://github.com/KSPModStewards/TUFX)
 
 Full history is in [CHANGELOG](./CHANGELOG.md).
+
+<p align=center>
+	<a alt="BuyMeACoffee" href="https://buymeacoffee.com/aspctt"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/donate/buymeacoffee-singular_vector.svg"></a>
+</p>
