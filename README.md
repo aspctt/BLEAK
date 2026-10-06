@@ -1,13 +1,17 @@
-# <p align=center> BLEAK </p>
+# <p align=center style="text-align: center;"> BLEAK </p>
 
-<p align=center>
+<p align="center" style="text-align: center;">
 	<img alt="Version" src="https://img.shields.io/badge/Version-1.2.2-orange">
 	<img alt="Available for" src="https://img.shields.io/badge/Available_for-KSP_1.9%2B-blue">
 	<img alt="Requires" src="https://img.shields.io/badge/Requires-TUFX-blueviolet">
 	<img alt="License" src="https://img.shields.io/badge/License-GPL_3.0-red">
 </p>
 
-<p align=center>
+<p align="center" style="text-align: center;">
+	<a alt="Buy Me a Coffee" href="https://buymeacoffee.com/aspctt"><img alt="Buy Me a Coffee" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/donate/buymeacoffee-singular_vector.svg"></a>
+</p>
+
+<p align="center" style="text-align: center;">
 	<a href="https://spacedock.info/mod/4626/BLEAK"><img src="https://cdn.jsdelivr.net/gh/aspctt/MouseAimFlightRedux@main/docs/badges/spacedock.svg" alt="Available on SpaceDock"></a>
 	<a href="https://github.com/aspctt/BLEAK"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/github_vector.svg" alt="Available on GitHub"></a>
 </p>
@@ -54,7 +58,3 @@ See [NOTICE](./NOTICE) for copyrights and trademarks.
 * KSPModStewards - maintaining [TUFX](https://github.com/KSPModStewards/TUFX)
 
 Full history is in [CHANGELOG](./CHANGELOG.md).
-
-<p align=center>
-	<a alt="BuyMeACoffee" href="https://buymeacoffee.com/aspctt"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/donate/buymeacoffee-singular_vector.svg"></a>
-</p>
