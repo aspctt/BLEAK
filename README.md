@@ -1,10 +1,10 @@
 # <p align=center style="text-align: center;"> BLEAK </p>
 
 <p align="center" style="text-align: center;">
-	<img alt="Version" src="https://img.shields.io/badge/Version-1.3.0-orange">
+	<img alt="Version" src="https://img.shields.io/badge/Version-1.3.1-orange">
 	<img alt="Available for" src="https://img.shields.io/badge/Available_for-KSP_1.9%2B-blue">
 	<img alt="Requires" src="https://img.shields.io/badge/Requires-TUFX-blueviolet">
-	<img alt="License" src="https://img.shields.io/badge/License-GPL_3.0-red">
+	<img alt="License" src="https://img.shields.io/badge/License-GPL--3.0--or--later-red">
 </p>
 
 <p align="center" style="text-align: center;">
@@ -27,7 +27,7 @@ Antialiasing is left off in every profile so it stays under your own graphics se
 * **Umia** - the baseline grade. Cool filter, heavy desaturation, gentle contrast lift and soft bloom.
 * **Everon** - Umia's grade with a cooler temperature, a little more contrast and a touch of chromatic aberration.
 * **Borealis** - a darker, higher-bloom variant with ambient occlusion and a custom tonemap. Built for orbital and night-side scenes.
-* **Vesper** - a softer, less cold grade. Lighter desaturation, a gentle custom tone curve, brighter midtones with a faint cool tint, warm highlights and moderate bloom.
+* **Vesper** - a softer, less cold grade. Lighter desaturation, a gentle custom tone curve, a faint cool tint in the midtones, warm highlights and moderate bloom.
 
 Each one also comes as an Editor version, such as **Umia - Editor**, with the same grade but no bloom, ambient occlusion or chromatic aberration, so the VAB and SPH stay readable while you build.
 
@@ -45,11 +45,11 @@ To install, place the GameData folder inside your Kerbal Space Program folder, a
 
 ## Licensing
 
-BLEAK is licensed under the **GNU General Public License v3.0**. The full terms are in [LICENSE](./LICENSE). In short:
+BLEAK is licensed under the **GNU General Public License v3.0 or later**. The full terms are in [LICENSE](./LICENSE). In short:
 
 * Use, share and change it freely.
-* Anything you release that's built from it must be GPL 3.0 too, keep the copyright notices and credit, and not pass itself off as BLEAK.
-* It's GPL 3.0 only. Moving it to a later GPL version is not allowed.
+* Anything you release that's built from it must be under GPL 3.0 or later too, keep the copyright notices and credit, and not pass itself off as BLEAK.
+* You can follow GPL 3.0 or any later version of the GPL.
 
 See [NOTICE](./NOTICE) for copyrights and trademarks.
 
