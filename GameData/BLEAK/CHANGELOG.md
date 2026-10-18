@@ -7,6 +7,29 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.3.0] - 2026-10-18
+
+### Added
+
+- Vesper and Vesper - Editor profiles, a softer grade with lighter desaturation, warm highlights and moderate bloom
+- Editor versions of Umia and Everon
+
+### Changed
+
+- Umia and Everon auto exposure is darker
+- Everon has stronger chromatic aberration
+- Rounded off the profile values
+
+### Removed
+
+- Motion blur from Umia and Everon, since it caused problems with volumetric clouds
+
+### Fixed
+
+- Borealis brightness and ambient occlusion radius had no effect in the modes it uses, and are removed
+- Everon tone curve settings had no effect with the ACES tonemapper, and are removed
+- Borealis auto exposure minimum and maximum were the wrong way round
+
 ## [1.2.2] - 2026-09-30
 
 ### Changed
@@ -50,7 +73,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 First release, with the Umia profile.
 
-[Unreleased]: https://github.com/aspctt/BLEAK/compare/1.2.2...HEAD
+[Unreleased]: https://github.com/aspctt/BLEAK/compare/1.3.0...HEAD
+[1.3.0]: https://github.com/aspctt/BLEAK/compare/1.2.2...1.3.0
 [1.2.2]: https://github.com/aspctt/BLEAK/compare/1.2.1.0...1.2.2
 [1.2.1]: https://github.com/aspctt/BLEAK/compare/1.2...1.2.1.0
 [1.2.0]: https://github.com/aspctt/BLEAK/compare/1.1...1.2

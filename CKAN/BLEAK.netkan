@@ -6,7 +6,7 @@
     "license"        : "GPL-3.0",
     "name"           : "BLEAK - TUFX Profiles",
     "author"         : "aspctt",
-    "abstract"       : "Cold, desaturated TUFX post-processing profiles. Four grades covering flight, orbit and the editor.",
+    "abstract"       : "Cold, desaturated TUFX post-processing profiles. Four grades for flight and orbit, each with an editor version.",
     "resources": {
         "repository": "https://github.com/aspctt/BLEAK"
     },

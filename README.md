@@ -1,7 +1,7 @@
 # <p align=center style="text-align: center;"> BLEAK </p>
 
 <p align="center" style="text-align: center;">
-	<img alt="Version" src="https://img.shields.io/badge/Version-1.2.2-orange">
+	<img alt="Version" src="https://img.shields.io/badge/Version-1.3.0-orange">
 	<img alt="Available for" src="https://img.shields.io/badge/Available_for-KSP_1.9%2B-blue">
 	<img alt="Requires" src="https://img.shields.io/badge/Requires-TUFX-blueviolet">
 	<img alt="License" src="https://img.shields.io/badge/License-GPL_3.0-red">
@@ -24,10 +24,12 @@ The look it goes for is cold and washed out rather than punchy. Saturation is pu
 There is no attempt here to make KSP look photoreal. The intent is closer to a colour grade on footage that already exists: the game's own art holds up fine, it just reads flat under stock lighting. Contrast, bloom threshold and exposure do most of the work, and effects that draw attention to themselves are used sparingly or not at all.
 Antialiasing is left off in every profile so it stays under your own graphics settings, and HDR is on throughout.
 
-* **Umia** - the baseline grade. Cool filter, heavy desaturation, gentle contrast lift, soft bloom and motion blur.
-* **Everon** - Umia's grade with a cooler temperature, a stronger tone curve toe for deeper shadows, and a touch of chromatic aberration.
+* **Umia** - the baseline grade. Cool filter, heavy desaturation, gentle contrast lift and soft bloom.
+* **Everon** - Umia's grade with a cooler temperature, a little more contrast and a touch of chromatic aberration.
 * **Borealis** - a darker, higher-bloom variant with ambient occlusion and a custom tonemap. Built for orbital and night-side scenes.
-* **Borealis - Editor** - the Borealis grade without ambient occlusion or bloom, so the VAB and SPH stay readable while you build.
+* **Vesper** - a softer, less cold grade. Lighter desaturation, a gentle custom tone curve, brighter midtones with a faint cool tint, warm highlights and moderate bloom.
+
+Each one also comes as an Editor version, such as **Umia - Editor**, with the same grade but no bloom, ambient occlusion or chromatic aberration, so the VAB and SPH stay readable while you build.
 
 In game, open TUFX from the toolbar and pick a profile.
 
