@@ -26,8 +26,8 @@ Antialiasing is left off in every profile so it stays under your own graphics se
 
 * **Umia** - the baseline grade. Cool filter, heavy desaturation, gentle contrast lift and soft bloom.
 * **Everon** - Umia's grade with a cooler temperature, a little more contrast and a touch of chromatic aberration.
-* **Borealis** - a darker, higher-bloom variant with ambient occlusion and a custom tonemap. Built for orbital and night-side scenes.
-* **Vesper** - a softer, less cold grade. Lighter desaturation, a gentle custom tone curve, a faint cool tint in the midtones, warm highlights and moderate bloom.
+* **Borealis** - bright and close to stock, with a touch more saturation, strong bloom, ambient occlusion and a custom tonemap.
+* **Vesper** - sits between Umia and Borealis, for everyday play. Lighter desaturation, a gentle custom tone curve, a faint cool tint in the midtones and warm, evening-light highlights, with moderate bloom.
 
 Each one also comes as an Editor version, such as **Umia - Editor**, with the same grade but no bloom, ambient occlusion or chromatic aberration, so the VAB and SPH stay readable while you build.
 
